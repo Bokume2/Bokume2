@@ -1,5 +1,5 @@
 # About me
-I'm a student of an university in Japan.  
+I  am a student of an university in Japan.  
 I **love** esoteric programming languages.
 
 <!--
